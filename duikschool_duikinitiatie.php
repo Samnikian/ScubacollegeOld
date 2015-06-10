@@ -48,9 +48,9 @@
     }
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
-<HTML><HEAD><TITLE>Leren Duiken - PADI - Gratis duikinitiatie bij duikschool Scuba College Mechelen/Antwerpen</TITLE>
-	<meta name="description" content="Leren Duiken - PADI - Gratis duikinitiatie bij duikschool Scuba College Mechelen/Antwerpen">
-	<meta name="keywords" content="gratis duikinitiatie,duiken,leren duiken,PADI,padi,duikschool,duikclub,duikcentrum,duikwinkel,duikshop,open water,advanced open water,openwater,OW,AOW,rescue diver,efr,divemaster,OWSI,mechelen,antwerpen,walem,nitrox,cursus,duikcursus,duikopleiding,nekker,de nekker,DAN,dan,bare,green force,mares,ralf tech,seac sub,sealife,suunto,uwkinetics,underwater kinetics,UK">
+<HTML><HEAD><TITLE>Leren Duiken - PADI - duikinitiatie bij duikschool Scuba College Mechelen/Antwerpen</TITLE>
+	<meta name="description" content="Leren Duiken - PADI -  duikinitiatie bij duikschool Scuba College Mechelen/Antwerpen">
+	<meta name="keywords" content="duikinitiatie,duiken,leren duiken,PADI,padi,duikschool,duikclub,duikcentrum,duikwinkel,duikshop,open water,advanced open water,openwater,OW,AOW,rescue diver,efr,divemaster,OWSI,mechelen,antwerpen,walem,nitrox,cursus,duikcursus,duikopleiding,nekker,de nekker,DAN,dan,bare,green force,mares,ralf tech,seac sub,sealife,suunto,uwkinetics,underwater kinetics,UK">
 <META http-equiv=Content-Type content="text/html; charset=windows-1252">
 <STYLE type=text/css>@import url(%20all.css%20);
 BODY { FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; }
@@ -172,7 +172,7 @@ DIV.headermenusub A.headermenusubsel:active {
 <DIV id=contentleft style="width: 200px; height: 535px">&nbsp;
 <DIV class=boxkopl style="width: 196px; height: 18px">
 <font color="#FFFFFF" size="2">Leren Duiken</font></DIV>
-<A href="duikschool_gratis_duikinitiatie.php" >&nbsp Gratis Duikinitiatie</A><BR>
+<A href="duikschool_duikinitiatie.php" >&nbsp Duikinitiatie</A><BR>
 <A href="duikschool_leren_duiken.html" >&nbsp Leer nu Duiken</A><BR><BR>
             
 <DIV class=boxkopl>&nbsp;<font color="#FFFFFF" size="2">Duikschool</font></DIV>
@@ -196,12 +196,12 @@ DIV.headermenusub A.headermenusubsel:active {
 <DIV id=contentcenter style="width: 613px; height: 1500px">
 <p>&nbsp;</p>
 <p style="margin-top: 0; margin-bottom: 0"><font size="4" color="#000080"><b>
-Duikschool - Gratis Duikinitiatie</b></font></p>
+Duikschool - Duikinitiatie</b></font></p>
 <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
 		<font FACE="Verdana" SIZE="2">
 		<b>
 		<p ALIGN="LEFT" style="margin-bottom: 0px">Wat gaan we allemaal doen 
-		tijdens zo’n initiatie?</p>
+		tijdens de initiatie?</p>
 		</b>
 		<p ALIGN="LEFT" style="margin-bottom: 0px">Eerst geven we je een korte 
 		briefing over de gebruikte apparatuur en de basisprincipes van het 
@@ -214,8 +214,8 @@ Duikschool - Gratis Duikinitiatie</b></font></p>
 		<font FACE="Verdana" SIZE="2">
 		<b>
 		<p ALIGN="LEFT" style="margin-bottom: 0px">Waar en wanneer gaan deze initiaties 
-		door? </b>De initiaties gaan door in het ‘Maanhoevebad’, in Sint-Katelijne-Waver bij Mechelen op zaterdagmiddag of op vrijdagavond in zwembad De Nekkerpool in het Provinciaal sport en recreatiecentrum De Nekker te Mechelen
-		<!--op dinsdagavond in zwembad ‘De Nachtegaal’ in Kontich.--> Onderaan kan u een voorkeurstijdstip selecteren. U krijgt van ons nog een bevestiging per e-mail.</p>
+		door? </b>De initiaties gaan door in het Maanhoevebad, in Sint-Katelijne-Waver bij Mechelen op zaterdagmiddag of op vrijdagavond in zwembad De Nekkerpool in het Provinciaal sport en recreatiecentrum De Nekker te Mechelen
+		<!--op dinsdagavond in zwembad ï¿½De Nachtegaalï¿½ in Kontich.--> Onderaan kan u een voorkeurstijdstip selecteren. U krijgt van ons nog een bevestiging per e-mail.</p>
 		<b>
 		<p ALIGN="LEFT" style="margin-bottom: 0px">&nbsp;</p>
 		<p ALIGN="LEFT" style="margin-bottom: 0px">Zijn er vereisten?
@@ -238,10 +238,11 @@ Duikschool - Gratis Duikinitiatie</b></font></p>
 		internationaal erkend duikbrevet : het <b>
 		<a href="duikschool_PADI.html?#PADI_Open_Water_Diver"><u>PADI Open Water Diver</u></a> </b>
 		brevet. Vraag je instructeur om meer informatie.</p>
+                <P ALIGN="LEFT" style="margin-bottom: 0px"><br /><b>Kostprijs?</b> Kostprijs van de initiatie is 10&euro;. U krijgt echter een korting van 10&euro; op de cursusprijs van de PADI Open Water Diver indien u na de initiatie inschrijft voor de meest populaire beginnerscursus duiken!<br /></P>
 		<p ALIGN="LEFT" style="margin-bottom: 0px">&nbsp;</p>
 		<p ALIGN="LEFT" style="margin-bottom: 0px">&nbsp;</p>
 		<p ALIGN="LEFT" style="margin-bottom: 0; margin-top:0"><b>
-			<font face="Tahoma" size="4">Schrijf je hier in voor een <u>GRATIS</u> 
+			<font face="Tahoma" size="4">Schrijf je hier in voor een 
 			duikinitiatie : </font></b></p>
 		</font>
 		</div>
@@ -300,7 +301,7 @@ Duikschool - Gratis Duikinitiatie</b></font></p>
         // bekijk of het al eerder verzonden was
         if ($_POST['submit']) $errorMsg = "<p><strong>Je vergat enkele verplichte velden in te vullen of je e-mail adres of geboortedatum is niet correct.</strong></p>";                    
 ?> 
-<form method="post" action="duikschool_gratis_duikinitiatie.php">
+<form method="post" action="duikschool_duikinitiatie.php">
 <table cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
 <tr>
 <td>
