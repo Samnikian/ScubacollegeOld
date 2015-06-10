@@ -158,7 +158,7 @@ DIV.headermenusub A.headermenusubsel:active {
 <DIV id=contentleft style="width: 200px; height: 535px">&nbsp;
 <DIV class=boxkopl style="width: 196px; height: 18px">
 <font color="#FFFFFF" size="2">Leren Duiken</font></DIV>
-<A href="duikschool_gratis_duikinitiatie.php" >&nbsp Gratis Duikinitiatie</A><BR>
+<A href="duikschool_duikinitiatie.php" >&nbsp Duikinitiatie</A><BR>
 <A href="duikschool_leren_duiken.html" >&nbsp Leer nu Duiken</A><BR><BR>
             
 <DIV class=boxkopl>&nbsp;<font color="#FFFFFF" size="2">Duikschool</font></DIV>
