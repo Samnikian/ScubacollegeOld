@@ -1,0 +1,9 @@
+## Rewrites
+Options +FollowSymLinks
+RewriteEngine On
+
+#duikschool_gratis_duikinitiatie.php
+#duikschool_duikinitiatie.php
+## 18/11/2015
+## Initiatie niet meer gratis
+RewriteRule ^duikschool_gratis_duikinitiatie.php$ /duikschool_duikinitiatie.php [R=301,L]
